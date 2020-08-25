@@ -11,6 +11,7 @@ Note:
     Edit the slides.md in VsCodium to make the reveal.js presentation
     Stage all changes and commit them to GitHub
     Push changes to Github
+    Enable Github pages for repositiory: Settings - GitHub Pages : source = Bracnch: Master 
     ###
 - Reveal.js is a webserver presentation, so start server in slides directory
      View live website via extension "Live server": Start "Go live" in bottom bar.
@@ -39,8 +40,8 @@ Note:
 
 ---
 
-<!-- .slide: data-menu-title="Werkgroep Toegankelijk Groningen" -->
-## Werkgroep Toegankelijk Groningen
+<!-- .slide: data-menu-title="Historie Werkgroep Toegankelijk Groningen" -->
+## Werkgroep Toegankelijk Groningen - prelude
 
 Voor 2016:
 
@@ -64,10 +65,11 @@ Note:
   - Contacten Klaas van der Berg in 2016
   - Jan Martini vanaf december 2016 werving via Link050: vrijwilligersbank : verzekerd etc.
   - Vanaf eind 2017 2 aanjagers Toegankelijkheid: Jan Martini, Jaco Kalfsbeek
+  - vanaf april 2020: Lidwien Reehuis (Opleiding : Organisatie Psycholoog)
 
 --
 
-<!-- .slide: data-background-image="images/puzzle.jpg" data-background-opacity="0.3" -->
+<!-- .slide: data-menu-title="Werkgroep TG" data-background-image="images/puzzle.jpg" data-background-opacity="0.2" -->
 ## Werkgroep TG
 
 Netwerk van en voor 'mensen met een handicap' in de Gemeente Groningen: Handicap-breed en sociaal!
@@ -84,7 +86,8 @@ Note:
 
 --
 
-## Handicap 'criteria'
+<!-- .slide: data-menu-title="Criteria" data-background-image="images/What-criteria.png" data-background-opacity="0.2" -->
+## Handicap 'Criteria'
 
 Iedereen met 'kan niet schelen welke afstand tot de mainstream-maatschappij' die binnen deze handicap-criteria valt, hoort erbij.
 
@@ -96,7 +99,7 @@ Criteria zijn in normaal Nederlands:
 
 --
 
-<!-- .slide: data-background-image="images/Diversity-accessibility.jpg" data-background-opacity="0.4" -->
+<!-- .slide: data-menu-title="Ervaringsdeskundigen" data-background-image="images/Diversity-accessibility.jpg" data-background-opacity="0.3" -->
 ## Ervaringsdeskundigen
 
 - Experts in het overleven van onmogelijke omstandigheden: als 'even' niks meer vanzelf gaat.
@@ -104,6 +107,7 @@ Criteria zijn in normaal Nederlands:
 
 --
 
+<!-- .slide: data-menu-title="Samenwerken" data-background-image="images/Samenwerken.png" data-background-opacity="0.2" -->
 ## Samenwerken
 
 Werkgroep als **verbindende schakel** en **netwerk**
@@ -119,6 +123,7 @@ Note:
 
 --
 
+<!-- .slide: data-menu-title="Doel en koers" data-background-image="images/windroos.jpg" data-background-opacity="0.2" -->
 ## Doel en koers
 
 Handen & voeten geven aan VN-verdrag 'Handicap'
@@ -138,7 +143,7 @@ Note:
 
 --
 
-<!-- .slide: data-background-image="images/Samenwerken.png" data-background-opacity="0.3" -->
+<!-- .slide: data-menu-title="Samenwerken" data-background-image="images/Verbinding.jpg" data-background-opacity="0.2" -->
 ## Werkwijze
 
 - Overleg gemeente: 2-wekelijks **digitaal**
@@ -164,14 +169,13 @@ Note:
 
 ## Output
 
-- Tussenstand actieplan Toegankelijke Stad (aka LIA)
+- Tussenstand actieplan Toegankelijke Stad (LIA)
 - Toegankelijke verkiezingen
 - Toegankelijkheid Stadhuis, scholen, MFC's, sportcentra, Station, Bushaltes, Vrijdag, Oosterpoort, Kunstwerf, Iederz,  alle festivals, ...
 - Ondertiteling Raadsvergaderingen 
-- Gronings Sportakkoord, Woonvisie, ..
+- Gronings Sportakkoord, Woonvisie, Herijking afvalbeleid, ..
 - Herinrichting BS-West, St Jansstraat, Kattenbrug
 - Waaier Toegankelijkheid
-- Herijking afvalbeleid
 - Werkgroep op de kaart zetten door samen te werken 
 
 Note:
