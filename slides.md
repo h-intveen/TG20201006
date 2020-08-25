@@ -174,10 +174,10 @@ Note:
 - Toegankelijke verkiezingen
 - Toegankelijkheid Stadhuis, scholen, MFC's, sportcentra, Station, Bushaltes, Vrijdag, Oosterpoort, Kunstwerf, Iederz,  alle festivals, ...
 - Ondertiteling Raadsvergaderingen 
-- Gronings Sportakkoord, Woonvisie, Herijking afvalbeleid, ..
+- Gronings Sportakkoord, Woonvisie, Afvalbeleid, ..
 - Herinrichting BS-West, St Jansstraat, Kattenbrug
 - Waaier Toegankelijkheid
-- Werkgroep op de kaart zetten door samen te werken 
+- Werkgroep op de kaart gezet 
 
 Note:
 - Gemeenteraad voor zomer reces: Formalisering werkgroep
