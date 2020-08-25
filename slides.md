@@ -36,7 +36,7 @@ Note:
 
 1. Werkgroep Toegankelijk Groningen
 2. Digitaal platform Toegankelijk Groningen
-3. (Live demo)
+3. Toekomst platform
 
 ---
 
@@ -167,6 +167,7 @@ Note:
 
 --
 
+<!-- .slide: data-menu-title="Output" data-background-image="images/Successen-in-Stad.jpg" data-background-opacity="0.3" -->
 ## Output
 
 - Tussenstand actieplan Toegankelijke Stad (LIA)
@@ -204,7 +205,8 @@ Note:
 
 --
 
-## Locale Inclusie Agenfda 2021+
+<!-- .slide: data-menu-title="Locale Inclusie Agenda 2021+" data-background-image="images/Toekomstblik.jpg" data-background-opacity="0.2" -->
+## Locale Inclusie Agenda 2021+
 
 - Thema eigenaren / ambassadeurs
   - Kick-off met wethouder (draagvlak)
