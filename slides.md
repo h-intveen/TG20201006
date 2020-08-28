@@ -177,7 +177,7 @@ Note:
 - Gronings Sportakkoord, Woonvisie, Afvalbeleid, ..
 - Herinrichting BS-West, St Jansstraat, Kattenbrug
 - Waaier Toegankelijkheid
-- Werkgroep op de kaart gezet 
+- Werkgroep op de kaart gezet met Tussenstand 
 
 Note:
 - Gemeenteraad voor zomer reces: Formalisering werkgroep
@@ -206,17 +206,19 @@ Note:
 --
 
 <!-- .slide: data-menu-title="Locale Inclusie Agenda 2021+" data-background-image="images/Toekomstblik.jpg" data-background-opacity="0.2" -->
-## Locale Inclusie Agenda 2021+
-
+## LIA 2021+
+Samenstellen Locale Inclusie Agenda 2021+
 - Thema eigenaren / ambassadeurs
   - Kick-off met wethouder (draagvlak)
-  - 12 thema eigenaren VN-Verdrag thema's
+  - 11 thema eigenaren VN-Verdrag thema's
 - Ervarings excursie 14/9
-- Thema sessies LIA 2021
+- Thema sessies per thema
+  - Prikkelende vragen om discussie uit te lokken
   - Niet o.b.v. Monitor VN-Verdrag Handicap 
 
 Note:
-- Monitor VN-Verdrag Handicap \= geen goede input: WMO enquete
+- Thema eigenaar is ambassadeur voor hetteam van zijn domein
+- Monitor VN-Verdrag Handicap = geen goede input: WMO enquete
 - Gemeente biedt voorzieningen als vangnet maar moet ook **springplank** bieden
   Activeer mensen met een beperking, motiveer om hun droom te bereiken!
 
