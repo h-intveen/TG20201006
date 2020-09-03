@@ -207,8 +207,8 @@ Note:
 
 <!-- .slide: data-menu-title="Locale Inclusie Agenda 2021+" data-background-image="images/Toekomstblik.jpg" data-background-opacity="0.2" -->
 
-## Locale Inclusie Agenda 2021+"Mke Locale Inclusie Agenda 2021+ same
-- Samen met thema eigenaren / ambassadeurs gemeente
+## Locale Inclusie Agenda 2021+"
+- Met thema eigenaren / ambassadeurs gemeente
   - Kick-off met wethouder (draagvlak)
   - 12 thema eigenaren VN-Verdrag thema's
 - Ervarings excursie 14/9
