@@ -47,9 +47,10 @@ Voor 2016:
 - Adviesraad gehandicaptenbeleid
 - PCG Website Toegankelijk Groningen
 
-In 2016:                                       <!-- .element: class="fragment" data-fragment-index="1" -->
-- Gehandicaptenadviesraad Groningen opgeheven  <!-- .element: class="fragment" data-fragment-index="1" -->
-- Oprichting Stad Adviseert (sociaal domein)   <!-- .element: class="fragment" data-fragment-index="1" -->
+In 2016:                                        <!-- .element: class="fragment" data-fragment-index="1" -->
+- Gehandicaptenadviesraad Groningen opgeheven   <!-- .element: class="fragment" data-fragment-index="1" -->
+- Oprichting Stad Adviseert (sociaal domein)    <!-- .element: class="fragment" data-fragment-index="1" -->
+- Vacuum georganiseerde ervaringsdeskundigheid  <!-- .element: class="fragment" data-fragment-index="1" -->
 
 Note:
 - Historie:
@@ -65,16 +66,18 @@ Note:
 ## Toegankelijk Groningen
 **Werkgroep - prelude**
 
-In 2016:                                       <!-- .element: class="fragment" data-fragment-index="1" -->
-- Ratificatie VN-Verdrag Handicap              <!-- .element: class="fragment" data-fragment-index="2" -->
-- Gemeente Groningen opgeschakeld              <!-- .element: class="fragment" data-fragment-index="3" -->
-- Start werving 'Keurmeesters'                 <!-- .element: class="fragment" data-fragment-index="4" -->
+Vervolg 2016:                                        <!-- .element: class="fragment" data-fragment-index="1" -->
+- Ratificatie VN-Verdrag Handicap               <!-- .element: class="fragment" data-fragment-index="2" -->
+- Gemeente Groningen opgeschakeld               <!-- .element: class="fragment" data-fragment-index="3" -->
+- Start werving 'Keurmeesters'                  <!-- .element: class="fragment" data-fragment-index="4" -->
+- Doorgroei naar Adviseurs Toegankelijkheid <!-- .element: class="fragment" data-fragment-index="4" -->
 
 Note:
 - Historie:
   - Contacten Klaas van der Berg in 2016
   - Keurmeesters --> Adviseurs Toegankelijkheid
   - Werven via Link050 - Vrijwilligersbank.nl
+  - Aanhaken Oogvereniging en Dovengemeenschap
   - Jan Martini vanaf december 2016 werving via Link050: vrijwilligersbank : verzekerd etc.
   - Vanaf eind 2017 2 aanjagers Toegankelijkheid: Jan Martini, Jaco Kalfsbeek
   - vanaf april 2020: Lidwien Reehuis (Opleiding : Organisatie Psycholoog)
@@ -189,7 +192,7 @@ Note:
 - Gronings Sportakkoord, Woonvisie, Afvalbeleid, ..
 - Herinrichting BS-West, St Jansstraat, Kattenbrug
 - Waaier Toegankelijkheid
-- Werkgroep op de kaart gezet met Tussenstand 
+- Werkgroep op de kaart gezet in gemeenteraad 
 
 Note:
 - Gemeenteraad voor zomer reces: Formalisering werkgroep
