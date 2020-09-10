@@ -2,6 +2,8 @@
 <!-- .slide: data-menu-title="Title page" data-background-image="images/TG-on-white.png" data-background-opacity="1.0" -->
 ### 'Hoe toegankelijk is uw gemeente?'
 #### Inspiratiesessie 6 oktober 2020
+      
+<button title="Click to open speaker notes view" onclick="RevealNotes.open()">.</button>
 
 Note:
 - Total ime 14:25 - 14:45; Part1 = 14 min.; part 2 = 6 min.
@@ -17,6 +19,9 @@ Note:
      View live website via extension "Live server": Start "Go live" in bottom bar.
 - Hidden features:
   - Speaker notes window : hit »S« on your keyboard.
+    On touch-only devices: add ?notes to the url
+    Or use: <button title="Click to open speaker notes view" onclick="RevealNotes.open()">Text or image</button>
+    Example image: <img src="images/notes.png">
   - Pause presentation :  hit »B« or ».«
   - Show menu: hit »M«
   Printing
