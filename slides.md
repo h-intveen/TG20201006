@@ -75,15 +75,17 @@ Note:
 
 --
 
-<!-- .slide: data-menu-title="Historie Werkgroep Toegankelijk Groningen" -->
+<!-- .slide: data-menu-title="Start Werkgroep Toegankelijk Groningen" -->
 ## Toegankelijk Groningen
-**Werkgroep - prelude**
+**start werkgroep 2016**
 
-Vervolg 2016:                                        <!-- .element: class="fragment" data-fragment-index="1" -->
-- Ratificatie VN-Verdrag Handicap               <!-- .element: class="fragment" data-fragment-index="2" -->
-- Gemeente Groningen opgeschakeld               <!-- .element: class="fragment" data-fragment-index="3" -->
-- Start werving 'Keurmeesters'                  <!-- .element: class="fragment" data-fragment-index="4" -->
-- Doorgroei naar Adviseurs Toegankelijkheid <!-- .element: class="fragment" data-fragment-index="4" -->
+- Ratificatie VN-Verdrag Handicap               <!-- .element: class="fragment" data-fragment-index="1" -->
+- Gemeente Groningen opgeschakeld               <!-- .element: class="fragment" data-fragment-index="2" -->
+- Werving 'Keurmeesters'                        <!-- .element: class="fragment" data-fragment-index="3" -->
+  - via Vrijwilligersbank.nl                    <!-- .element: class="fragment" data-fragment-index="3" -->
+- Start met met fysieke toegankelijkheid        <!-- .element: class="fragment" data-fragment-index="4" -->
+- Doorgroei naar Adviseurs Toegankelijkheid     <!-- .element: class="fragment" data-fragment-index="5" -->
+- Los van de gemeente!                          <!-- .element: class="fragment" data-fragment-index="5" -->
 
 Note:
 - Historie:
@@ -174,13 +176,13 @@ Note:
 <!-- .slide: data-menu-title="Samenwerken" data-background-image="images/Verbinding.jpg" data-background-opacity="0.2" -->
 ## Werkwijze
 
-- Overleg gemeente: 2-wekelijks **digitaal**
+- Overleg gemeente: x-wekelijks **digitaal**
 - Meedenken in plaats van eisen
 - Scannen communicatie gemeente
 - Overleg projectleiders **digitaal**
 - Wandeling wethouder Toegankelijkheid
 - Deelname Let\'s Gro
-- Bijwonen raads- & Commissievergaderingen, inspreken
+- Bijwonen raads- \& Commissievergaderingen, inspreken
 
 Note:
 - Nog lange weg naar natuurlijke consultatie - Loket Bouwen & Wonen
@@ -212,7 +214,7 @@ Note:
 - Verkiezingen: incl. Dovengemeenschap!
 - **Herhaal:** Belangen kunnen verschillen of tegengesteld zijn, bijv. Shared Space
 - handreiking 1,5 meter samenleving & Horeca
-- Groninger Forum: repareren wat 
+- Groninger Forum: repareren wat kan
 - Grunn Gras
 - MiVa Parkeerbeleid
 - Afvalscheiding, inclusief Harmonisatie
@@ -239,14 +241,17 @@ Note:
 - Met thema eigenaren / ambassadeurs gemeente
   - Kick-off met wethouder (draagvlak)
   - 12 thema eigenaren VN-Verdrag thema's
-- Ervarings excursie 14/9
+- Ervarings excursie 14 september
+  - Bloedgroepen overleg: verdeel thema's
+  - Decentraal: vertrouw op elkaar
+  - Ruimte voor wat er mis gaat
+  - Deel feedback
 - Thema sessies per thema
-  - Prikkelende vragen om discussie uit te lokken
-  - Niet o.b.v. Monitor VN-Verdrag Handicap 
 
 Note:
 - Thema eigenaar is ambassadeur voor het team van zijn domein
 - Monitor VN-Verdrag Handicap = geen goede input: WMO-enquete
+  Prikkelende vragen om discussie uit te lokken
 - Gemeente biedt voorzieningen als vangnet maar moet ook **springplank** bieden
   Activeer mensen met een beperking, motiveer om hun droom te bereiken!
 
