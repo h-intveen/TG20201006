@@ -27,7 +27,6 @@ Note:
   - Speaker notes window : hit »S« on your keyboard.
     On touch-only devices: add "?notes" to the url
     Or use: <button title="Click to open speaker notes view" onclick="RevealNotes.open()">Text or image</button>
-    Example image: <img src="images/notes.png">
   - Pause presentation :  hit »B« or ».«
   - Show menu: hit »M«
   Printing
