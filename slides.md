@@ -103,7 +103,7 @@ Note:
   - Jan Martini vanaf december 2016 werving via Link050: vrijwilligersbank : verzekerd etc.
   - Vanaf eind 2017 2 aanjagers Toegankelijkheid: Jan Martini, Jaco Kalfsbeek
   - vanaf april 2020: Lidwien Reehuis (Opleiding : Organisatie Psycholoog)
-  - Onafhankelijk --> spanningsveld: vertrouwen!
+  - Onafhankelijk --> spanningsveld: vertrouwen! Mag best een beetje schuren!
 
 --
 
